@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "js-sha1": "^0.4.1",
+    "node-sha1": "^1.0.1",
+    "node-uuid": "^1.4.8",
+    "socket.io": "^2.0.3",
+    "uuid": "^3.1.0"
+  }
+}
